@@ -1,6 +1,0 @@
-{
-	"/": [],
-	"/movies": [
-		"src/routes/movies/+page.server.js"
-	]
-}
