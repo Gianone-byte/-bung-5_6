@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f97316" />
+      <stop offset="50%" stop-color="#fb7185" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#wave)" />
+  <g stroke="url(#pulse)" stroke-width="8" fill="none" opacity="0.7">
+    <path d="M0 300 C60 280 120 320 180 300 C240 280 300 320 360 300 C420 280 480 320 540 300 C580 288 600 300 600 300" />
+    <path d="M0 400 C80 380 140 420 220 400 C300 380 360 420 440 400 C520 380 580 420 600 400" />
+    <path d="M0 500 C100 480 180 520 280 500 C380 480 460 520 560 500 C600 490 600 500 600 500" />
+  </g>
+  <rect x="200" y="180" width="200" height="440" fill="#111827" opacity="0.85" />
+  <text x="50%" y="690" text-anchor="middle" font-size="46" fill="#fbe7ff" font-family="'Bebas Neue', cursive" letter-spacing="14">MIRAGE</text>
+  <text x="50%" y="738" text-anchor="middle" font-size="32" fill="#fef2f2" font-family="'Bebas Neue', cursive" letter-spacing="16">FREQUENCY</text>
+</svg>

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Stellar Frontier",
+    "year": 2025,
+    "length": "138 Minuten",
+    "genres": ["Science Fiction", "Adventure"],
+    "actors": ["Lina Moreau", "Devon Hale", "Aiko Matsuda"],
+    "poster": "/images/stellar-frontier.svg"
+  },
+  {
+    "title": "Echoes of Altaris",
+    "year": 2024,
+    "length": "124 Minuten",
+    "genres": ["Drama", "Mystery"],
+    "actors": ["Marin Ortega", "Sanjay Kulkarni"],
+    "poster": "/images/echoes-of-altaris.svg"
+  },
+  {
+    "title": "Nebula Noir",
+    "year": 2026,
+    "length": "131 Minuten",
+    "genres": ["Crime", "Sci-Fi"],
+    "actors": ["Bianca Rhodes", "Kamal Youssef"],
+    "poster": "/images/nebula-noir.svg"
+  },
+  {
+    "title": "Chronicles of Lumi",
+    "year": 2023,
+    "length": "117 Minuten",
+    "genres": ["Fantasy", "Family"],
+    "actors": ["Juno Eriksen", "Helena Zhou"],
+    "poster": "/images/chronicles-of-lumi.svg"
+  },
+  {
+    "title": "Quantum Bloom",
+    "year": 2025,
+    "length": "102 Minuten",
+    "genres": ["Romance", "Science Fiction"],
+    "actors": ["Tara Singh", "Noah Gruber"],
+    "poster": "/images/quantum-bloom.svg"
+  },
+  {
+    "title": "Afterlight Protocol",
+    "year": 2024,
+    "length": "145 Minuten",
+    "genres": ["Thriller", "Science Fiction"],
+    "actors": ["Willem Park", "Sara Ndiaye", "Jonah Vesely"],
+    "poster": "/images/afterlight-protocol.svg"
+  },
+  {
+    "title": "Aurora's Heir",
+    "year": 2023,
+    "length": "109 Minuten",
+    "genres": ["Fantasy", "Adventure"],
+    "actors": ["Mia Duarte", "Xavier Holt"],
+    "poster": "/images/auroras-heir.svg"
+  },
+  {
+    "title": "Silent Orbit",
+    "year": 2026,
+    "length": "118 Minuten",
+    "genres": ["Mystery", "Science Fiction"],
+    "actors": ["Isak Johansson", "Selena Brooks"],
+    "poster": "/images/silent-orbit.svg"
+  },
+  {
+    "title": "Mirage Frequency",
+    "year": 2025,
+    "length": "126 Minuten",
+    "genres": ["Psychological", "Thriller"],
+    "actors": ["Leila Hassan", "Omar Briggs"],
+    "poster": "/images/mirage-frequency.svg"
+  },
+  {
+    "title": "Saffron Skies",
+    "year": 2024,
+    "length": "112 Minuten",
+    "genres": ["Drama", "Coming of Age"],
+    "actors": ["Ariane Keller", "Felix Martins"],
+    "poster": "/images/saffron-skies.svg"
+  }
+]
